@@ -1,6 +1,7 @@
 # Artificial-Neural-Network-Yapay-Sinir-Ağlari
 
 Artificial Neural Network yani Yapay Sinir Ağları uygulaması drive üzerinden Colab platformunda gerçekleştirilmiştir.
+Kodlar python dilindedir. Baştaki bağlantı kodlarını kullanmazsanız, spyder platformunda da kullanabilirsiniz. Fakat Colabda daha hızlı sonuç alınmaktadır.
 
 Veriseti: 1326 satır, 6 sütundan oluşan sayılardan ibarettir. Dosya uzantısı  .csv dir.
 ilk 5 sütun feature lardan oluşurken, son sütun class sütunudur. class 0-1 (binary) dir.
